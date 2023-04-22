@@ -14,7 +14,7 @@ class Program
 
         letter = (char)(65 + 1);
         Console.WriteLine(letter);
-        
+
         letter = (char)(4 * 12 / 2);
         Console.WriteLine(letter);
 

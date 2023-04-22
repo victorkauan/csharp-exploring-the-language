@@ -13,7 +13,7 @@ class Program
         Console.WriteLine(annaAge);
 
         age = 25;
-        
+
         Console.WriteLine(age);
         Console.WriteLine(annaAge);
 
