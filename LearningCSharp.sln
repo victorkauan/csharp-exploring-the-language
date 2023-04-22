@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-HelloWorld", "1-HelloWorl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-CreatingVariables", "2-CreatingVariables\2-CreatingVariables.csproj", "{B1A7AAF9-0E0D-4D78-94C0-4B8554C82516}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CreatingFloatingPointVariables", "3-CreatingFloatingPointVariables\3-CreatingFloatingPointVariables.csproj", "{DD9CDDB1-C9DD-4CEC-922A-B2C587175770}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B1A7AAF9-0E0D-4D78-94C0-4B8554C82516}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1A7AAF9-0E0D-4D78-94C0-4B8554C82516}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1A7AAF9-0E0D-4D78-94C0-4B8554C82516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD9CDDB1-C9DD-4CEC-922A-B2C587175770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9CDDB1-C9DD-4CEC-922A-B2C587175770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9CDDB1-C9DD-4CEC-922A-B2C587175770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9CDDB1-C9DD-4CEC-922A-B2C587175770}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
