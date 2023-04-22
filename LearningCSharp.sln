@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-CastingAndOtherDataTypes"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CharactersAndTexts", "5-CharactersAndTexts\5-CharactersAndTexts.csproj", "{0D6EDACC-D50C-487E-A078-D7FCC6EA66EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-VariableAssignments", "6-VariableAssignments\6-VariableAssignments.csproj", "{60E961C3-232A-4BC0-B1FE-B73D5DB4AC00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0D6EDACC-D50C-487E-A078-D7FCC6EA66EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D6EDACC-D50C-487E-A078-D7FCC6EA66EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D6EDACC-D50C-487E-A078-D7FCC6EA66EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E961C3-232A-4BC0-B1FE-B73D5DB4AC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E961C3-232A-4BC0-B1FE-B73D5DB4AC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E961C3-232A-4BC0-B1FE-B73D5DB4AC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E961C3-232A-4BC0-B1FE-B73D5DB4AC00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
