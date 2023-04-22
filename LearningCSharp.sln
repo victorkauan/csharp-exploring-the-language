@@ -5,9 +5,11 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-HelloWorld", "1-HelloWorld\1-HelloWorld.csproj", "{30F530DE-E083-470E-A052-BBF5997C0919}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-CreatingVariables", "2-CreatingVariables\2-CreatingVariables.csproj", "{B1A7AAF9-0E0D-4D78-94C0-4B8554C82516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CreatingVariables", "2-CreatingVariables\2-CreatingVariables.csproj", "{B1A7AAF9-0E0D-4D78-94C0-4B8554C82516}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CreatingFloatingPointVariables", "3-CreatingFloatingPointVariables\3-CreatingFloatingPointVariables.csproj", "{DD9CDDB1-C9DD-4CEC-922A-B2C587175770}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-CreatingFloatingPointVariables", "3-CreatingFloatingPointVariables\3-CreatingFloatingPointVariables.csproj", "{DD9CDDB1-C9DD-4CEC-922A-B2C587175770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-CastingAndOtherDataTypes", "4-CastingAndOtherDataTypes\4-CastingAndOtherDataTypes.csproj", "{99E7B60D-FFDC-43CE-916C-01B211F6E69A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{DD9CDDB1-C9DD-4CEC-922A-B2C587175770}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD9CDDB1-C9DD-4CEC-922A-B2C587175770}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD9CDDB1-C9DD-4CEC-922A-B2C587175770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E7B60D-FFDC-43CE-916C-01B211F6E69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E7B60D-FFDC-43CE-916C-01B211F6E69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E7B60D-FFDC-43CE-916C-01B211F6E69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E7B60D-FFDC-43CE-916C-01B211F6E69A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
